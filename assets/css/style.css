@@ -3,3 +3,28 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+
+.alert-container{
+
+}
+
+.callout-container{
+    height: 100vh;
+    background: url("assets/images/whiskey-background.jpg") no-repeat bottom right fixed; 
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+}
+
+.quotes-container{
+
+}
+
+.features-container{
+
+}
